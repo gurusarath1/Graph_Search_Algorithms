@@ -4,6 +4,7 @@ This code finds a path from a start node to a goal using -
  - Depth First search
  - Breadth First search
  - Greedy Best First search
+ - Branch and bound
 The algorithm to run is chosen using the parameters given to the Search function in Search.py file
 
 -------------------------------------------------------
